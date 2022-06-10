@@ -1,0 +1,51 @@
+.dark .App {
+  background: url("./images/graph-bg.svg"), #212f45;
+}
+
+.App {
+  background: url("./images/circuit-board.svg"), #fff;
+}
+
+.hero-title {
+  font-family: "Poppins", sans-serif;
+}
+
+.logo {
+  font-family: "Cairo", sans-serif;
+}
+
+.menuClose {
+  transform: translate3d(100%, 0px, 0px);
+}
+
+.toast {
+  right: 5%;
+  position: fixed;
+  z-index: 100;
+}
+
+@media (max-width: 768px) {
+  .toast {
+    left: 50%;
+    position: fixed;
+    transform: translate(-50%, 0px);
+    z-index: 100;
+  }
+}
+
+@media (min-width: 500px) and (max-width: 768px) {
+  .project-title {
+    gap: 2rem;
+    padding: 1.5rem;
+  }
+
+  .project-section {
+    gap: 1.5rem;
+  }
+
+  .project-section,
+  .project-title {
+    padding-left: 2rem;
+    padding-right: 2rem;
+  }
+}
