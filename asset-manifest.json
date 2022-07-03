@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.75a4f5ae.css",
-    "main.js": "/static/js/main.0333e832.js",
+    "main.css": "/static/css/main.a4f31ce5.css",
+    "main.js": "/static/js/main.a8249412.js",
     "static/media/2.png": "/static/media/2.c02c5b856db36206b659.png",
     "static/media/3.png": "/static/media/3.3883d4a8d06e2ad48806.png",
     "static/media/1.png": "/static/media/1.70f4e9a0b83f66a8b7e9.png",
@@ -13,14 +13,15 @@
     "static/media/TSF.jpg": "/static/media/TSF.ddd40606204c83f4061b.jpg",
     "static/media/hero.png": "/static/media/hero.77aed1c256714f61a517.png",
     "static/media/DeskCoder.svg": "/static/media/DeskCoder.cf3762d389c6441db828f3c7bef0b956.svg",
+    "static/media/404.svg": "/static/media/404.88a9acef6bea2a8b13da63c7b0d6b523.svg",
     "static/media/circuit-board.svg": "/static/media/circuit-board.a78a39361a5c65244e59.svg",
     "static/media/graph-bg.svg": "/static/media/graph-bg.8327f97169d9165d20f9.svg",
     "index.html": "/index.html",
-    "main.75a4f5ae.css.map": "/static/css/main.75a4f5ae.css.map",
-    "main.0333e832.js.map": "/static/js/main.0333e832.js.map"
+    "main.a4f31ce5.css.map": "/static/css/main.a4f31ce5.css.map",
+    "main.a8249412.js.map": "/static/js/main.a8249412.js.map"
   },
   "entrypoints": [
-    "static/css/main.75a4f5ae.css",
-    "static/js/main.0333e832.js"
+    "static/css/main.a4f31ce5.css",
+    "static/js/main.a8249412.js"
   ]
 }
